@@ -1,0 +1,14 @@
+/Users/adil/Developer/C#/P2PChat/P2PChat/bin/Debug/net8.0/P2PChat
+/Users/adil/Developer/C#/P2PChat/P2PChat/bin/Debug/net8.0/P2PChat.deps.json
+/Users/adil/Developer/C#/P2PChat/P2PChat/bin/Debug/net8.0/P2PChat.runtimeconfig.json
+/Users/adil/Developer/C#/P2PChat/P2PChat/bin/Debug/net8.0/P2PChat.dll
+/Users/adil/Developer/C#/P2PChat/P2PChat/bin/Debug/net8.0/P2PChat.pdb
+/Users/adil/Developer/C#/P2PChat/P2PChat/obj/Debug/net8.0/P2PChat.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adil/Developer/C#/P2PChat/P2PChat/obj/Debug/net8.0/P2PChat.AssemblyInfoInputs.cache
+/Users/adil/Developer/C#/P2PChat/P2PChat/obj/Debug/net8.0/P2PChat.AssemblyInfo.cs
+/Users/adil/Developer/C#/P2PChat/P2PChat/obj/Debug/net8.0/P2PChat.csproj.CoreCompileInputs.cache
+/Users/adil/Developer/C#/P2PChat/P2PChat/obj/Debug/net8.0/P2PChat.dll
+/Users/adil/Developer/C#/P2PChat/P2PChat/obj/Debug/net8.0/refint/P2PChat.dll
+/Users/adil/Developer/C#/P2PChat/P2PChat/obj/Debug/net8.0/P2PChat.pdb
+/Users/adil/Developer/C#/P2PChat/P2PChat/obj/Debug/net8.0/P2PChat.genruntimeconfig.cache
+/Users/adil/Developer/C#/P2PChat/P2PChat/obj/Debug/net8.0/ref/P2PChat.dll

@@ -13,7 +13,7 @@ public class P2PServer
     {
         listener = new TcpListener(IPAddress.Parse(ip), port);
         listener.Start();
-        Console.WriteLine("Listening for connections...");
+        Console.WriteLine($"Listening for connections on {ip}:{port}...");
         client = listener.AcceptTcpClient();
         Console.WriteLine("Connection established!");
 

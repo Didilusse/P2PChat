@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("P2PChat")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38436403732d3e86a78ae28e85c2866c0bd05748")]
 [assembly: System.Reflection.AssemblyProductAttribute("P2PChat")]
 [assembly: System.Reflection.AssemblyTitleAttribute("P2PChat")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
